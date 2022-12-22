@@ -6,7 +6,7 @@ This repository holds all of my projects that I've done over the years. Currentl
 
 1. [SQL](https://github.com/shyamchand114/Data_Analytics_portfolio/tree/main/SQL)
 2. [Python](https://github.com/shyamchand114/Data_Analytics_portfolio/tree/main/Python)
-3. [Tableau Visualization](https://github.com/shyamchand114/Data_Analytics_portfolio/tree/main/Data%20visualization)
+3. [Visualization](https://github.com/shyamchand114/Data_Analytics_portfolio/tree/main/Data%20visualization)
 
 Each category has their own variety of projects and some form of documentation.
 
